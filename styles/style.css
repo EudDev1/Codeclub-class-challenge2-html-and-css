@@ -1,0 +1,119 @@
+*{
+background: royalblue;
+font-family: 'Nunito', sans-serif;
+box-sizing: border-box;
+}
+
+form{
+border: #000000 solid 1px;
+padding: 20px;
+}
+
+legend{
+margin-bottom: 20px;
+}
+
+input{
+color: #000000;
+background-color: azure;
+border-radius: 8px;
+}
+
+button{
+    cursor: pointer;
+    background-color: azure;
+
+}
+
+h1{
+    font-weight: 700;
+    align-items: center;
+    color: azure;
+}
+
+#name{
+display: block;
+ margin-bottom: 20px;
+}
+
+#email{
+display: block;
+margin-bottom: 20px;
+}
+
+#age{
+    display: block;
+    margin-bottom: 20px;
+}
+
+#birthdate{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.title-sexo{
+    margin-bottom: 10px;
+}
+
+.label-checkbox{
+    margin-bottom: 10px;
+}
+
+.checkbox-input{
+    display: inline;
+}
+
+.checkboxClass{
+margin-bottom: 20px;
+}
+
+#eye-color{
+    display: inline;
+}
+
+.bio-class{
+    display: block;
+margin-top: 20px;
+}
+
+#bio-id{
+    display: block;
+margin-bottom: 20px;
+background-color: azure;
+border-radius: 8px;
+}
+#profile-picture{
+    display: block;
+    margin-bottom: 20px;
+}
+
+#telephone{
+ display:block;
+ margin-bottom: 20px; 
+}
+
+#link-facebook{
+ display: block;
+ margin-bottom: 20px;
+}
+
+#password{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.button-reset:hover{ 
+color: #000000;
+background: blueviolet;
+transition: 0.3s;
+width: 80px;
+height: 40px;
+}
+
+.button-tosend:hover{
+color: #000000;
+background: blueviolet;
+transition: 0.3s;
+width: 80px;
+height: 40px;
+}
